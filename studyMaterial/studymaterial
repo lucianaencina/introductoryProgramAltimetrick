@@ -1,0 +1,14 @@
+How did I create a repository, a folder in github and then clone it to the pc.
+
+1. Create a new repository in Github.
+2. Set up in Github Desktop.
+3. Create a folder in the PC called "Proyectos".
+4. In Github Desktop, - clone the repository - and choose the folder I want.
+5. When the clone is done, open the folder and create a new one called "studyMaterial". It should be like this 
+   Proyectos > introductoryProgramAltimetrick > studyMaterial. In "introductoryProgramAltimetrick it will appear -.git-
+6. Then Github Desktop - open with Visual Studio, create a new file. 
+7. Open the terminal and git status, git add . , git commit -m "first commit" , git push. And with that everything has to be on the cloud now.
+
+
+
+
