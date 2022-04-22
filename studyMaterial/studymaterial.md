@@ -13,5 +13,15 @@ https://docs.google.com/presentation/d/1doJTMFOurP_bgSgs5zcZvE7cP91pb3_iDVWj_p4y
 And anotherones from a Google doc my sister did when she learn backend.
 https://docs.google.com/document/d/1rQxS7VdiXlRdl4568vqH_D2HxULW0Cn_cRZwktqISJ4/edit
 
+Git rebase-squash-differences between rebase and merge.
+
+https://www.javatpoint.com/git-rebase
+https://www.atlassian.com/es/git/tutorials/rewriting-history/git-rebase
+https://medium.com/@MiguelCasas/diferencia-entre-git-rebase-y-git-merge-workshop-de-git-8622dedde2d7#:~:text=El%20rebase%20unifica%20las%20ramas,el%20gr%C3%A1fico%20de%20las%20ramas.
+https://es.stackoverflow.com/questions/83624/cu%C3%A1l-es-la-diferencia-entre-git-rebase-y-git-merge
+https://www.solucionex.com/blog/git-merge-o-git-rebase
+https://www.javatpoint.com/git-squash
+https://onthedock.github.io/post/210121-combinar-commits/
+
 
 
