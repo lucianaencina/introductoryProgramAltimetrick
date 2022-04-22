@@ -1,14 +1,17 @@
-How did I create a repository in github, clone it to the PC and the create a new folder-
+Links Git:
 
-1. Create a new repository in Github.
-2. Set up in Github Desktop.
-3. Create a folder in the PC called "Proyectos".
-4. In Github Desktop, - clone the repository - and choose the folder I want.
-5. When the clone is done, open the folder and create a new one called "studyMaterial". It should be like this 
-   Proyectos > introductoryProgramAltimetrick > studyMaterial. In "introductoryProgramAltimetrick it will appear -.git-
-6. Then Github Desktop - open with Visual Studio, create a new file. 
-7. Open the terminal and git status, git add . , git commit -m "first commit" , git push. And with that everything has to be on the cloud now.
+https://www.atlassian.com/es/git/tutorials/inspecting-a-repository/git-tag#:~:text=El%20comando%20git%20tag%20es,valiosos%20adicionales%20sobre%20la%20etiqueta.
+https://www.arsys.es/blog/git-tag
+https://www.atlassian.com/es/git/tutorials/saving-changes/git-stash
+https://www.freecodecamp.org/espanol/news/git-stash-explicado/
+https://githooks.com/
+https://www.atlassian.com/es/git/tutorials/git-hooks
 
+Somethings I take them from a course I did in CoderHouse:
+https://docs.google.com/presentation/d/1doJTMFOurP_bgSgs5zcZvE7cP91pb3_iDVWj_p4yJoQ/edit#slide=id.g9e9db81d44_0_1192
+
+And anotherones from a Google doc my sister did when she learn backend.
+https://docs.google.com/document/d/1rQxS7VdiXlRdl4568vqH_D2HxULW0Cn_cRZwktqISJ4/edit
 
 
 
