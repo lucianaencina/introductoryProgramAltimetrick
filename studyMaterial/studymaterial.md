@@ -30,3 +30,10 @@ https://maxiburgos.medium.com/diario-de-un-desarrollador-10-git-y-branching-stra
 https://www.flagship.io/git-branching-strategies/
 https://www.split.io/glossary/trunk-based-development/#:~:text=Trunk%2Dbased%20development%20(TBD),%2C%20the%20%E2%80%9Cmaster%20branch%E2%80%9D.
 
+Agile methodologies and scrum
+
+https://latam.coderhouse.com/blog/que-es-la-metodologia-agile?utm_term=&utm_campaign=14760151598&utm_source=google_performance_max&utm_medium=cpc&gclid=Cj0KCQjw6pOTBhCTARIsAHF23fIhrE9C2mwGqPn9KHKRO_vJkvbWFPB29y7zHvZSv1YVHPZE855422QaAv5EEALw_wcB
+https://www.iebschool.com/blog/que-son-metodologias-agiles-agile-scrum/
+https://www.pragma.com.co/blog/la-introduccion-al-manifiesto-agil
+https://www.apd.es/metodologia-scrum-que-es/#:~:text=La%20metodolog%C3%ADa%20Scrum%20es%20un,resultado%20de%20un%20proyecto%20determinado.
+https://www.euroforum.es/blog/metodologia-scrum-definicion-herramientas-y-ejemplos-de-proyectos/
