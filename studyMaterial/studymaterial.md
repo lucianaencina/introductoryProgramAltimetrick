@@ -23,5 +23,10 @@ https://www.solucionex.com/blog/git-merge-o-git-rebase
 https://www.javatpoint.com/git-squash
 https://onthedock.github.io/post/210121-combinar-commits/
 
+Git branching strategies and flows.
 
+https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow
+https://maxiburgos.medium.com/diario-de-un-desarrollador-10-git-y-branching-strategies-989471b0f97c
+https://www.flagship.io/git-branching-strategies/
+https://www.split.io/glossary/trunk-based-development/#:~:text=Trunk%2Dbased%20development%20(TBD),%2C%20the%20%E2%80%9Cmaster%20branch%E2%80%9D.
 
